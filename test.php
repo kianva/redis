@@ -1,6 +1,6 @@
 <?php
-
-$redis = new Redis() ;
+phpinfo();
+/*$redis = new Redis() ;
 
 $redis->set('myname','rr') ;
-echo $redis->get('myname') .'<br/>';
+echo $redis->get('myname') .'<br/>';*/
